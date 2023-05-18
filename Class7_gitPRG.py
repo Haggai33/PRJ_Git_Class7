@@ -1,3 +1,4 @@
 print("my master branch")
-print("fetch from local to remote rep")
+print("push from local to remote rep")
+
 
